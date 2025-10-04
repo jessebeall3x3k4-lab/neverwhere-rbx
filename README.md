@@ -1,9 +1,5 @@
-# LONG TIME UNMAINTAINED AND NOT SUPPORTED!!!
-## This was my very first project with VS and Windows Forms. This script is NOT working anymore and I will NOT continue developing it for the following reasons:
-1. Roblox cheating scene is dead
-2. Like I said: It was my first project and I only made it to learn something new
-3. The API is also dead and DETECTED
-4. Roblox started implementing their own AntiCheat, so most of the executors won't work anyway
+
+## This was my very first project with VS and Windows Forms.:
 
 ![image](https://user-images.githubusercontent.com/76164598/164978039-8194918e-7634-4824-a40a-058b2c9ebbe7.png)
 
@@ -14,16 +10,6 @@ Neverwhere is a Open-Source, lightweight script injector and executor for Roblox
 <br>
 Checkout our custom API at https://github.com/WooxHimself/NeverwhereAPI <br>
 Based on EasyXPloits
-
-# How to download? 📩
-
-1. Go to http://neverwhere.xyz to download it <br>
-2. Unzip the .rar file, I recommend in Documents Folder or on your Desktop <br>
-3. Launch NEVERWHERE.exe <br>
-4. Wait for it to load <br>
-5. Now you can use NEVERWHERE! <br>
-
-<br>
 
 # How to use it?  🚀
 <br>
